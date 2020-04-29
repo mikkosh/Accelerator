@@ -63,51 +63,50 @@
 <entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="20" pc="268436949" symbol="getInitialView"/>
 <entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="21" pc="268436973" symbol="getInitialView"/>
 <entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="22" pc="268436999" symbol="getInitialView"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="24" lineNum="21" pc="268437027" symbol="initialize"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="24" lineNum="22" pc="268437031" symbol="initialize"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="24" pc="268437050" symbol="testCallback"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="25" pc="268437054" symbol="testCallback"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="26" pc="268437086" symbol="testCallback"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="27" pc="268437101" symbol="testCallback"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="34" pc="268437171" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="35" pc="268437175" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="36" pc="268437209" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="38" pc="268437250" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="39" pc="268437269" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="42" pc="268437288" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="43" pc="268437318" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="44" pc="268437352" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="45" pc="268437378" symbol="onLayout"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="27" lineNum="49" pc="268437397" symbol="onShow"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="53" pc="268437402" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="54" pc="268437406" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="55" pc="268437442" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="58" pc="268437454" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="59" pc="268437490" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="60" pc="268437503" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="61" pc="268437578" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="62" pc="268437653" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="64" pc="268437728" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="65" pc="268437803" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="66" pc="268437878" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="68" pc="268437953" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="70" pc="268438025" symbol="onUpdate"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="29" lineNum="75" pc="268438086" symbol="timerCallback"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="29" lineNum="77" pc="268438090" symbol="timerCallback"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="30" lineNum="83" pc="268438107" symbol="onHide"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="86" pc="268438112" symbol="resetMaximums"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="87" pc="268438116" symbol="resetMaximums"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="88" pc="268438134" symbol="resetMaximums"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="91" pc="268438151" symbol="incTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="92" pc="268438155" symbol="incTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="93" pc="268438172" symbol="incTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="94" pc="268438191" symbol="incTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="96" pc="268438220" symbol="incTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="99" pc="268438237" symbol="decTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="100" pc="268438241" symbol="decTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="101" pc="268438258" symbol="decTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="102" pc="268438277" symbol="decTreshold"/>
-<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="104" pc="268438306" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="24" lineNum="20" pc="268437027" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="24" lineNum="21" pc="268437031" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="23" pc="268437050" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="24" pc="268437054" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="25" pc="268437086" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="26" pc="268437101" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="33" pc="268437171" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="34" pc="268437175" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="35" pc="268437209" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="37" pc="268437250" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="40" pc="268437269" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="41" pc="268437299" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="42" pc="268437333" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="43" pc="268437359" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="27" lineNum="47" pc="268437378" symbol="onShow"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="51" pc="268437383" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="52" pc="268437387" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="53" pc="268437423" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="56" pc="268437435" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="57" pc="268437471" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="58" pc="268437484" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="59" pc="268437559" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="60" pc="268437634" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="62" pc="268437709" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="63" pc="268437784" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="64" pc="268437859" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="66" pc="268437934" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="68" pc="268438006" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="29" lineNum="73" pc="268438067" symbol="timerCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="29" lineNum="75" pc="268438071" symbol="timerCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="30" lineNum="81" pc="268438088" symbol="onHide"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="84" pc="268438093" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="85" pc="268438097" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="86" pc="268438115" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="89" pc="268438132" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="90" pc="268438136" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="91" pc="268438153" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="92" pc="268438172" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="94" pc="268438201" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="97" pc="268438218" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="98" pc="268438222" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="99" pc="268438239" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="100" pc="268438258" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="102" pc="268438287" symbol="decTreshold"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388698" method="true" symbol="start"/>
@@ -157,7 +156,6 @@
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="9" object="true" symbol="AcceleratorDelegate"/>
 <entry field="true" id="17" symbol="maxSampleRate"/>
-<entry field="true" id="8389067" symbol="height"/>
 <entry id="13" module="true" symbol="Layouts"/>
 <entry field="true" id="20" symbol="treshold"/>
 <entry id="8389079" method="true" symbol="onPreviousPage"/>
@@ -190,8 +188,8 @@
 <entry endPc="268437026" name="mainView" stackId="1" startPc="268436949"/>
 <entry endPc="268437026" name="viewDelegate" stackId="2" startPc="268436949"/>
 <entry endPc="268437171" name="val" stackId="1" startPc="268437050"/>
-<entry endPc="268437397" name="dc" stackId="1" startPc="268437171"/>
-<entry endPc="268438086" name="dc" stackId="1" startPc="268437402"/>
+<entry endPc="268437378" name="dc" stackId="1" startPc="268437171"/>
+<entry endPc="268438067" name="dc" stackId="1" startPc="268437383"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>
@@ -206,7 +204,7 @@
 <dataEntry offset="447" parentId="globals" symbolId="AccelAnalyzer" type="class"/>
 <dataEntry offset="654" parentId="globals" symbolId="Accelerator" type="class"/>
 <dataEntry offset="725" parentId="globals" symbolId="AcceleratorView" type="class"/>
-<dataEntry offset="884" parentId="globals" symbolId="AcceleratorDelegate" type="class"/>
+<dataEntry offset="876" parentId="globals" symbolId="AcceleratorDelegate" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" name="initialize" parent="AcceleratorDelegate">

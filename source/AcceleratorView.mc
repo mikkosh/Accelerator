@@ -11,7 +11,6 @@ class AcceleratorView extends WatchUi.View {
 
     var dataTimer;
     var width;
-    var height;
 	
     var accel;
     
@@ -36,8 +35,7 @@ class AcceleratorView extends WatchUi.View {
         dataTimer.start(method(:timerCallback), 100, true);
 
         width = dc.getWidth();
-        height = dc.getHeight();
-       
+        
         
         accel = new AccelAnalyzer();
         accel.setAlertCallback(method(:testCallback));
