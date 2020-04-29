@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="3" lineNum="8" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="4" lineNum="11" pc="268435489" symbol="onSelect"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="4" lineNum="12" pc="268435493" symbol="onSelect"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="4" lineNum="13" pc="268435511" symbol="onSelect"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="5" lineNum="16" pc="268435515" symbol="onNextPage"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="5" lineNum="17" pc="268435519" symbol="onNextPage"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="5" lineNum="18" pc="268435537" symbol="onNextPage"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="6" lineNum="20" pc="268435541" symbol="onPreviousPage"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="6" lineNum="21" pc="268435545" symbol="onPreviousPage"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorDelegate.mc" id="6" lineNum="22" pc="268435563" symbol="onPreviousPage"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="8" lineNum="20" pc="268435567" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="8" lineNum="21" pc="268435571" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="8" lineNum="22" pc="268435596" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="8" lineNum="23" pc="268435606" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="8" lineNum="25" pc="268435618" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="8" lineNum="26" pc="268435656" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="9" lineNum="29" pc="268435695" symbol="start"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="9" lineNum="30" pc="268435699" symbol="start"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="9" lineNum="31" pc="268435709" symbol="start"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="10" lineNum="34" pc="268435722" symbol="stop"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="10" lineNum="35" pc="268435726" symbol="stop"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="10" lineNum="36" pc="268435736" symbol="stop"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="11" lineNum="39" pc="268435749" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="11" lineNum="40" pc="268435753" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="11" lineNum="41" pc="268435762" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="11" lineNum="42" pc="268435771" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="12" lineNum="46" pc="268435781" symbol="setTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="12" lineNum="47" pc="268435785" symbol="setTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="13" lineNum="51" pc="268435796" symbol="setAlertCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="13" lineNum="52" pc="268435800" symbol="setAlertCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="55" pc="268435811" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="56" pc="268435815" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="57" pc="268435848" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="58" pc="268435881" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="60" pc="268435914" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="61" pc="268435958" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="62" pc="268436002" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="64" pc="268436046" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="65" pc="268436084" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="66" pc="268436122" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="68" pc="268436160" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="69" pc="268436221" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="71" pc="268436250" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="72" pc="268436311" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="74" pc="268436340" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="75" pc="268436401" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="78" pc="268436430" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="79" pc="268436484" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="81" pc="268436503" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="82" pc="268436557" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="84" pc="268436576" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AccelAnalyzer.mc" id="14" lineNum="85" pc="268436630" symbol="_dataReceivedCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="19" lineNum="5" pc="268436912" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="19" lineNum="6" pc="268436916" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="20" lineNum="10" pc="268436935" symbol="onStart"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="21" lineNum="15" pc="268436940" symbol="onStop"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="19" pc="268436945" symbol="getInitialView"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="20" pc="268436949" symbol="getInitialView"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="21" pc="268436973" symbol="getInitialView"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/Accelerator.mc" id="22" lineNum="22" pc="268436999" symbol="getInitialView"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="24" lineNum="21" pc="268437027" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="24" lineNum="22" pc="268437031" symbol="initialize"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="24" pc="268437050" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="25" pc="268437054" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="26" pc="268437086" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="25" lineNum="27" pc="268437101" symbol="testCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="34" pc="268437171" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="35" pc="268437175" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="36" pc="268437209" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="38" pc="268437250" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="39" pc="268437269" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="42" pc="268437288" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="43" pc="268437318" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="44" pc="268437352" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="26" lineNum="45" pc="268437378" symbol="onLayout"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="27" lineNum="49" pc="268437397" symbol="onShow"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="53" pc="268437402" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="54" pc="268437406" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="55" pc="268437442" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="58" pc="268437454" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="59" pc="268437490" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="60" pc="268437503" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="61" pc="268437578" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="62" pc="268437653" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="64" pc="268437728" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="65" pc="268437803" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="66" pc="268437878" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="68" pc="268437953" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="28" lineNum="70" pc="268438025" symbol="onUpdate"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="29" lineNum="75" pc="268438086" symbol="timerCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="29" lineNum="77" pc="268438090" symbol="timerCallback"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="30" lineNum="83" pc="268438107" symbol="onHide"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="86" pc="268438112" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="87" pc="268438116" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="31" lineNum="88" pc="268438134" symbol="resetMaximums"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="91" pc="268438151" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="92" pc="268438155" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="93" pc="268438172" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="94" pc="268438191" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="32" lineNum="96" pc="268438220" symbol="incTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="99" pc="268438237" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="100" pc="268438241" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="101" pc="268438258" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="102" pc="268438277" symbol="decTreshold"/>
+<entry filename="/Users/mkoh/Dropbox/projects/Accelerator/source/AcceleratorView.mc" id="33" lineNum="104" pc="268438306" symbol="decTreshold"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388698" method="true" symbol="start"/>
+<entry id="29" method="true" symbol="setAlertCallback"/>
+<entry field="true" id="26" symbol="maxZ"/>
+<entry field="true" id="25" symbol="maxY"/>
+<entry field="true" id="24" symbol="maxX"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="32" method="true" symbol="&lt;globals/AccelAnalyzer/&lt;&gt;_startLogging&gt;"/>
+<entry id="11" object="true" symbol="Accelerator"/>
+<entry field="true" id="39" symbol="parentView"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="12" object="true" symbol="AcceleratorView"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="33" method="true" symbol="&lt;globals/AccelAnalyzer/&lt;&gt;_stopLogging&gt;"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="8388705" symbol="callback"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="35" method="true" symbol="testCallback"/>
+<entry id="10" object="true" symbol="AccelAnalyzer"/>
+<entry field="true" id="19" symbol="isLogging"/>
+<entry id="27" method="true" symbol="resetMaximums"/>
+<entry id="8389808" symbol="period"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry field="true" id="8390134" symbol="sampleRate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="8389605" symbol="accel"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="23" symbol="currZ"/>
+<entry field="true" id="22" symbol="currY"/>
+<entry field="true" id="21" symbol="currX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="31" method="true" symbol="&lt;globals/AccelAnalyzer/&lt;&gt;_absMax&gt;"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="18" symbol="loggingPeriod"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="9" object="true" symbol="AcceleratorDelegate"/>
+<entry field="true" id="17" symbol="maxSampleRate"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="20" symbol="treshold"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="36" method="true" symbol="timerCallback"/>
+<entry field="true" id="34" symbol="dataTimer"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="30" method="true" symbol="_dataReceivedCallback"/>
+<entry id="38" method="true" symbol="decTreshold"/>
+<entry id="8390135" symbol="enableAccelerometer"/>
+<entry id="8388699" method="true" symbol="stop"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="37" method="true" symbol="incTreshold"/>
+<entry id="28" method="true" symbol="setTreshold"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435489" name="view" stackId="1" startPc="268435456"/>
+<entry endPc="268435796" name="tr" stackId="1" startPc="268435781"/>
+<entry endPc="268435811" name="cb" stackId="1" startPc="268435796"/>
+<entry endPc="268436650" name="sensorData" stackId="1" startPc="268435811"/>
+<entry endPc="268436743" name="i" stackId="3" startPc="268436681"/>
+<entry endPc="268436746" name="maxData" stackId="2" startPc="268436654"/>
+<entry endPc="268436747" name="arrData" stackId="1" startPc="268436650"/>
+<entry endPc="268436888" name="options" stackId="1" startPc="268436751"/>
+<entry endPc="268436940" name="state" stackId="1" startPc="268436935"/>
+<entry endPc="268436945" name="state" stackId="1" startPc="268436940"/>
+<entry endPc="268437026" name="mainView" stackId="1" startPc="268436949"/>
+<entry endPc="268437026" name="viewDelegate" stackId="2" startPc="268436949"/>
+<entry endPc="268437171" name="val" stackId="1" startPc="268437050"/>
+<entry endPc="268437397" name="dc" stackId="1" startPc="268437171"/>
+<entry endPc="268438086" name="dc" stackId="1" startPc="268437402"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="346" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="377" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="447" parentId="globals" symbolId="AccelAnalyzer" type="class"/>
+<dataEntry offset="654" parentId="globals" symbolId="Accelerator" type="class"/>
+<dataEntry offset="725" parentId="globals" symbolId="AcceleratorView" type="class"/>
+<dataEntry offset="884" parentId="globals" symbolId="AcceleratorDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="AcceleratorDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="AcceleratorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="AcceleratorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="AcceleratorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AccelAnalyzer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="start" parent="AccelAnalyzer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stop" parent="AccelAnalyzer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resetMaximums" parent="AccelAnalyzer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setTreshold" parent="AccelAnalyzer">
+<param id="tr"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setAlertCallback" parent="AccelAnalyzer">
+<param id="cb"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="_dataReceivedCallback" parent="AccelAnalyzer">
+<param id="sensorData"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/AccelAnalyzer/&lt;&gt;_absMax&gt;" parent="AccelAnalyzer">
+<param id="arrData"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/AccelAnalyzer/&lt;&gt;_startLogging&gt;" parent="AccelAnalyzer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/AccelAnalyzer/&lt;&gt;_stopLogging&gt;" parent="AccelAnalyzer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Accelerator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="Accelerator">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="Accelerator">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="Accelerator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="testCallback" parent="AcceleratorView">
+<param id="val"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AcceleratorView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AcceleratorView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resetMaximums" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="incTreshold" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="decTreshold" parent="AcceleratorView">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
