@@ -1,0 +1,24 @@
+<resources>
+<layout id="MainLayout">
+<label text="x" x="20%" y="55" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label text="y" x="center" y="55" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label text="z" x="80%" y="55" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label id="currx" text="-" x="20%" y="70" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label id="curry" text="-" x="center" y="70" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label id="currz" text="-" x="80%" y="70" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+
+
+<label text="x(max)" x="20%" y="170" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label text="y(max)" x="center" y="170" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label text="z(max)" x="80%" y="170" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+
+<label id="maxx" text="-" x="20%" y="185" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label id="maxy" text="-" x="center" y="185" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label id="maxz" text="-" x="80%" y="185" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+
+<label id="timebetween" text="0" x="center" y="center" font="Gfx.FONT_NUMBER_THAI_HOT" color="Gfx.COLOR_DK_RED" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+
+<label text="Alert treshold" x="center" y="225" font="Gfx.FONT_XTINY" color="Gfx.COLOR_DK_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+<label id="treshold" text="-" x="center" y="240" font="Gfx.FONT_SMALL" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+</layout>
+</resources>

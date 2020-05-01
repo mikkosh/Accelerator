@@ -1,6 +1,6 @@
 class AccelAnalyzer {
 	
-	var maxSampleRate;
+	var sampleRate;
 	var loggingPeriod = 1;
 	var isLogging;
 	
@@ -17,12 +17,20 @@ class AccelAnalyzer {
 	var maxY;
 	var maxZ;
 	
+	// sample count for identifying peaks
+	var sampleCount = 0;
+	// when was the last peak
+	var lastTriggerSampleCount = 0;
+	
+	// time between alerts
+	var tBetweenAlerts = 0.0d;
+	
 	function initialize() {
-    	maxSampleRate = Sensor.getMaxSampleRate();  
+    	sampleRate = Sensor.getMaxSampleRate();  
     	isLogging = false;
     	resetMaximums();
     	
-    	Toybox.System.println("Logging at rate: " + maxSampleRate); 
+    	Toybox.System.println("Logging at rate: " + sampleRate); 
     	Toybox.System.println("Logging period: " + loggingPeriod); 
     }
 	
@@ -51,30 +59,51 @@ class AccelAnalyzer {
 	function setAlertCallback(cb) {
 		callback = cb;
 	}
+	function invokeAlert(accelValue) {
+		
+		
+		tBetweenAlerts = (sampleCount-lastTriggerSampleCount)*(1.0d/sampleRate);
+		Toybox.System.println("Samplecount: " + sampleCount);
+		Toybox.System.println("Lastalert: " + lastTriggerSampleCount);
+		Toybox.System.println("Time between alerts: " + tBetweenAlerts);
+		
+		lastTriggerSampleCount = sampleCount;
+		if(callback instanceof Method) {
+			callback.invoke(accelValue);
+		}
+	}
 	
 	function _dataReceivedCallback(sensorData){
+	
+		for(var i=0; i<sensorData.accelerometerData.x.size(); i++) {
+			sampleCount++;
+			var x = sensorData.accelerometerData.x[i];
+			var y = sensorData.accelerometerData.y[i];
+			var z = sensorData.accelerometerData.z[i];
+			
+			// alert is triggered only for one axis per time
+			if(x.abs() > treshold.abs()) {
+				invokeAlert(x);
+			} else if(y.abs() > treshold.abs()) {
+				invokeAlert(y);
+			} else if(z.abs() > treshold.abs()) {
+				invokeAlert(z);
+			}
+		}
+		// get max values from the sample array
 		currX = _absMax(sensorData.accelerometerData.x);
 		currY = _absMax(sensorData.accelerometerData.y);
 		currZ = _absMax(sensorData.accelerometerData.z);
 		
-		Toybox.System.println("Raw samples, X axis: " + sensorData.accelerometerData.x);
-		Toybox.System.println("Raw samples, Y axis: " + sensorData.accelerometerData.y);
-		Toybox.System.println("Raw samples, Z axis: " + sensorData.accelerometerData.z);
+		Toybox.System.println("Raw samples, X axis("+sensorData.accelerometerData.x.size()+"): " + sensorData.accelerometerData.x);
+		Toybox.System.println("Raw samples, Y axis("+sensorData.accelerometerData.y.size()+"): " + sensorData.accelerometerData.y);
+		Toybox.System.println("Raw samples, Z axis("+sensorData.accelerometerData.z.size()+"): " + sensorData.accelerometerData.z);
 		
 		Toybox.System.println("Max X axis: " + currX);
 		Toybox.System.println("Max Y axis: " + currY);
 		Toybox.System.println("Max Z axis: " + currZ);
 		
-		if(currX.abs() > treshold.abs() && callback instanceof Method) {
-			callback.invoke(currX);
-		}
-		if(currY.abs() > treshold.abs() && callback instanceof Method) {
-			callback.invoke(currY);
-		}
-		if(currZ.abs() > treshold.abs() && callback instanceof Method) {
-			callback.invoke(currZ);
-		}
-		
+		// update all time high values
 		if(maxX == null || maxX.abs() < currX.abs()) {
 			maxX = currX;
 		}
@@ -100,7 +129,7 @@ class AccelAnalyzer {
 	
 	private function _startLogging() {
 		
-		var options = {:period => loggingPeriod, :sampleRate => maxSampleRate, :enableAccelerometer => true};
+		var options = {:period => loggingPeriod, :sampleRate => sampleRate, :enableAccelerometer => true};
 		try {
 			Sensor.registerSensorDataListener(method(:_dataReceivedCallback), options);
 		}
