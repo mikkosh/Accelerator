@@ -22,6 +22,9 @@ class AccelAnalyzer {
 	// when was the last peak
 	var lastTriggerSampleCount = 0;
 	
+	// cooldown period between samples
+	var cooldown = 2; // do not trigger more often than every 3 samples
+	
 	// time between alerts
 	var tBetweenAlerts = 0.0d;
 	
@@ -59,8 +62,15 @@ class AccelAnalyzer {
 	function setAlertCallback(cb) {
 		callback = cb;
 	}
+	
+	// @todo: rename method as this does not always invoke alert
 	function invokeAlert(accelValue) {
 		
+		// cooldown might be necessary to avoid interpreting one shot twice 
+		if((sampleCount - lastTriggerSampleCount) <= cooldown) {
+			Toybox.System.println("Ignored alert due to cooldown");
+			return;
+		}
 		
 		tBetweenAlerts = (sampleCount-lastTriggerSampleCount)*(1.0d/sampleRate);
 		Toybox.System.println("Samplecount: " + sampleCount);
